@@ -43,7 +43,7 @@ log_level = 2
 android.minapi = 21
 
 # نسخه هدف Android
-android.api = 35
+android.api = 33
 
 # معماری
 android.archs = arm64-v8a
